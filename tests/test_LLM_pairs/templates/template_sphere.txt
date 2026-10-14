@@ -1,0 +1,11 @@
+You are comparing two input variants for the function f(x1, x2) = x1^2 + x2^2.
+
+Variant A has the following parameters: [Variant A]
+
+Variant B has the following parameters: [Variant B]
+
+Which variant (A or B) gives the greater value of f(x1, x2)?
+
+Reason step by step, then output the answer in this format:
+
+SOLUTION: A (or B)

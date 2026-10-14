@@ -1,0 +1,11 @@
+You are comparing two input variants for the function f(x) = sin(x).
+
+Variant A has the following parameters: [Variant A]
+
+Variant B has the following parameters: [Variant B]
+
+Which variant (A or B) gives the greater value of f(x)?
+
+Reason step by step, then output the answer in this format:
+
+SOLUTION: A (or B)

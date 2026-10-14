@@ -1,0 +1,16 @@
+Experimantal Setup:
+```
+The coatings are deposited on 40ХН2МА steel substrates using vacuum arc deposition with prior ion implantation and a Titanium sublayer. The process involves reactive sputtering with Ar/N2 gas mixtures.
+```
+
+Compare two deposition regimes for DLC coating:
+
+Regime A: [Regime A]
+
+Regime B: [Regime B]
+
+Which coating is expected to have higher indentation hardness H?
+
+Reason step by step, then output the answer in this format:
+
+SOLUTION: A (or B)

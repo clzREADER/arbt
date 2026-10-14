@@ -1,0 +1,13 @@
+Compare two deposition regimes for DLC coating:
+
+Regime A: The coatings are deposited on 40ХН2МА steel substrates using vacuum arc deposition with prior ion implantation and a Titanium sublayer. The process involves reactive sputtering with Ar/N2 gas mixtures.
+Regime A has following parameters: [Regime A]
+
+Regime B: The monolayer metal-doped DLC coatings are deposited on 40ХН steel substrates using a combined cathodic arc/magnetron system equipped with laser, stepper, and induction coils for magnetic filtering. The process uses pure Argon atmosphere and metal alloying (Ti or Cr).
+Regime B has following parameters: [Regime B]
+
+Which coating is expected to have higher indentation hardness H?
+
+Reason step by step, then output the answer in this format:
+
+SOLUTION: A (or B)
